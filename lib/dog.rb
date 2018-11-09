@@ -5,5 +5,6 @@ class Dog
   
   def name 
     @name
-  
+    # you are "getting" the name from above 
+  end 
 end 
